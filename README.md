@@ -1,4 +1,4 @@
-# HTB LABS
+# HTB Labs
 
 ## ⚠ Disclaimer
 ```
